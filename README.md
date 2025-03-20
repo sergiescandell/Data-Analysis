@@ -41,3 +41,23 @@ This project analyzes nearly 100,000 transactions recorded across multiple shopp
 To achieve this, we conduct a data-driven analysis that addresses key business questions, uncovering trends in consumer behavior, seasonal patterns, and sales performance.
 
 - **Tools used**: Python (Pandas)
+
+---
+
+## **Skills and Tools**
+-   **Programming Languages:**  Python, SQL
+-   **Libraries:**  Pandas, NumPy, Matplotlib, Seaborn
+-   **Visualization Tools:**  Looker, Power BI
+-   **Databases:**  MySQL, PostgreSQL
+-   **Other Tools:**  Excel
+---
+
+## **Contact**
+If you'd like to discuss my work or collaborate on a project, feel free to reach out!
+
+-   **Email:**  [[sergiescandell4@gmail.com](mailto:sergiescandell4@gmail.com)]
+-   **LinkedIn:**  [www.linkedin.com/in/sergiescandell](https://www.linkedin.com/in/sergiescandell/)
+
+-------
+
+Thank you for visiting my portfolio! 
