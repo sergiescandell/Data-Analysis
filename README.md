@@ -48,7 +48,7 @@ To achieve this, we conduct a data-driven analysis that addresses key business q
 -   **Programming Languages:**  Python, SQL
 -   **Libraries:**  Pandas, NumPy, Matplotlib, Seaborn
 -   **Visualization Tools:**  Looker, Power BI
--   **Databases:**  MySQL, PostgreSQL
+-   **Databases:**  MySQL, BigQuery
 -   **Other Tools:**  Excel
 ---
 
