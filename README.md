@@ -13,6 +13,9 @@ This project explores the real estate market in Madrid using a dataset published
 The goal is to extract valuable insights on market trends, identify pricing patterns and provide recommendations based on the data.
 
 - **Tools used**: Python & MySQL
+
+[View Project Repository](https://github.com/sergiescandell/Real-Estate-Madrid)
+
 ---
 ### Weightlifting Market Analysis: Identifying Growth Opportunities in Europe
 
@@ -21,6 +24,9 @@ This project analyzes the European weightlifting market to assess the feasibilit
 To achieve this, we conduct a data-driven analysis of the European Weightlifting Championships from 2019 to 2024. The goal is to uncover trends, identify key regions with potential growth, and provide actionable insights for business expansion.
 
 - **Tools used**: Python (Pandas, Numpy, Seaborn, Matplotlib, Plotly Express).
+
+[View Project Repository](https://github.com/sergiescandell/Weightlifting-Market-Analysis)
+
 ---
 ### Price Optimization Airbnb
 This project analyzes the short-term rental market in Madrid to optimize pricing strategies for Airbnb properties. Our client, a major property owner in the city, seeks data-driven insights to maximize profitability and stay competitive.
@@ -34,6 +40,9 @@ To achieve this, we conduct a comprehensive analysis of the Madrid Airbnb market
 The final deliverable is a Data Storytelling that provides clear, evidence-based recommendations to improve pricing decisions and revenue potential.
 
 - **Tools used** : Python (Pandas, Numpy, Seaborn, Matplotlib, Plotly Express)
+
+[View Project Repository](https://github.com/sergiescandell/Price-Optimization-Airbnb)
+
 ----
 ### Retail Sales Analysis
 This project analyzes nearly 100,000 transactions recorded across multiple shopping centers from 2021 to 2023. As analysts for the holding company that owns these centers, our goal is to extract valuable insights from sales data to drive strategic decision-making.
@@ -41,6 +50,8 @@ This project analyzes nearly 100,000 transactions recorded across multiple shopp
 To achieve this, we conduct a data-driven analysis that addresses key business questions, uncovering trends in consumer behavior, seasonal patterns, and sales performance.
 
 - **Tools used**: Python (Pandas)
+
+[View Project Repository](https://github.com/sergiescandell/Retail-Sales-Analysis)
 
 ---
 
