@@ -16,6 +16,7 @@ The goal is to identify pricing patterns, popular routes, and travel trends base
 
 [View Project Repository](https://github.com/sergiescandell/Renfe-Tickets-Insight)
 
+---
 ### Real Estate Insights: Real Estate Data Analysis in Madrid
 
 This project explores the real estate market in Madrid using a dataset published by Idealista with information from 2018. Through SQL queries, we analyze sales prices, housing characteristics and their relationship with key geographic factors, such as distance to urban points of interest.
