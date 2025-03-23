@@ -6,6 +6,15 @@ Here, you'll find a collection of projects showcasing my work with **Python, SQL
 
 ## Projects
 
+### Renfe Ticket Insights: Train Travel Data Analysis in Spain 
+
+This project analyzes train ticket sales data from Renfe, Spain’s national railway company. Using Power BI, we explore key travel metrics, ticket pricing, and passenger trends.
+
+The goal is to identify pricing patterns, popular routes, and travel trends based on ticket class, fare type, and train type, providing insights for better decision-making in railway operations.
+
+Tools used: Power BI
+[View Project Repository](https://github.com/sergiescandell/Renfe-Tickets-Insight)
+
 ### Real Estate Insights: Real Estate Data Analysis in Madrid
 
 This project explores the real estate market in Madrid using a dataset published by Idealista with information from 2018. Through SQL queries, we analyze sales prices, housing characteristics and their relationship with key geographic factors, such as distance to urban points of interest.
