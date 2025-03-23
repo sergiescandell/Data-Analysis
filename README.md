@@ -12,7 +12,8 @@ This project analyzes train ticket sales data from Renfe, Spain’s national rai
 
 The goal is to identify pricing patterns, popular routes, and travel trends based on ticket class, fare type, and train type, providing insights for better decision-making in railway operations.
 
-Tools used: Power BI
+- Tools used: Power BI
+
 [View Project Repository](https://github.com/sergiescandell/Renfe-Tickets-Insight)
 
 ### Real Estate Insights: Real Estate Data Analysis in Madrid
